@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" role="img" aria-labelledby="title desc">
+  <title id="title">Adorable Clinic</title>
+  <desc id="desc">Original text logo created for this static redesign</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#8d2d63"/>
+      <stop offset="1" stop-color="#d46c9c"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(4 8)">
+    <circle cx="40" cy="40" r="38" fill="#fff4f8" stroke="#edd5df" stroke-width="2"/>
+    <path d="M20 58c8-23 14-36 20-36s12 13 20 36M27 45h26" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="58" cy="20" r="5" fill="#d46c9c"/>
+  </g>
+  <text x="92" y="47" font-family="Georgia, serif" font-size="36" fill="#2a2030">Adorable Clinic</text>
+  <text x="94" y="70" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8d2d63">SKIN • HAIR • LASER</text>
+</svg>
